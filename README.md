@@ -61,7 +61,7 @@ To simulate and generate figures, run the following scripts one after the other:
 To specify the filename and save generated figures use: `arPaperFigures(1, 0, 0, 0, 'FigureName');` 
 
 ## License
-MIT license
+GPL-3.0 license
 
 ## Citation
 If you use the models, data, or scripts from this repository in your research, please cite the original paper:
