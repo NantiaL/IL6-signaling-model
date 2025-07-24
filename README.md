@@ -1,4 +1,6 @@
 # Diclofenac and acetaminophen dim the acute phase response but amplify expression of the iron regulator hepcidin in liver cancer cells
+[![Latest version](https://img.shields.io/badge/Latest_version-brightgreen.svg?style=plastic)](https://github.com/NantiaL/IL6-signaling-model/releases/)
+[![DOI](https://zenodo.org/badge/1025467644.svg)](https://doi.org/10.5281/zenodo.16411068)
 
 ## Overview
 
